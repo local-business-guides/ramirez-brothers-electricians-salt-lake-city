@@ -12,10 +12,10 @@
 - Electrician
 
 ## Guides
+- [Electrical Maintenance Salt Lake City](https://local-business-guides.github.io/ramirez-brothers-electricians-salt-lake-city/electrical-maintenance-salt-lake-city/): Electrical Maintenance Salt Lake City: learn what to check, when to call a pro, and how to prepare. Call Ramirez Brothers Electricians today.
 - [Electrical Installation Salt Lake City](https://local-business-guides.github.io/ramirez-brothers-electricians-salt-lake-city/electrical-installation-salt-lake-city/): Electrical Installation Salt Lake City made clearer: plan your home project with practical guidance. Call Ramirez Brothers Electricians today.
 - [Salt Lake City Electrician for Home Service](https://local-business-guides.github.io/ramirez-brothers-electricians-salt-lake-city/salt-lake-city-electrician/): Need a Salt Lake City Electrician? Get clear next steps for your home and know what to prepare. Call Ramirez Brothers Electricians in Salt Lake City today.
 - [Electrical Repair Salt Lake City Home Guide](https://local-business-guides.github.io/ramirez-brothers-electricians-salt-lake-city/electrical-repair-salt-lake-city/): Need Electrical Repair Salt Lake City homeowners can plan for? Learn what to report and prepare, then call Ramirez Brothers Electricians in Salt Lake City.
-- [Electrical Maintenance Salt Lake City](https://local-business-guides.github.io/ramirez-brothers-electricians-salt-lake-city/electrical-maintenance-salt-lake-city/): Electrical Maintenance Salt Lake City: learn what to check, when to call a pro, and how to prepare. Call Ramirez Brothers Electricians today.
 - [Electrical Panel Upgrade Salt Lake City](https://local-business-guides.github.io/ramirez-brothers-electricians-salt-lake-city/electrical-panel-upgrade-salt-lake-city/): Get ready for an Electrical Panel Upgrade Salt Lake City homeowners can plan with a practical checklist and questions. Call Ramirez Brothers Electricians.
 - [Circuit Breaker Repair Salt Lake City](https://local-business-guides.github.io/ramirez-brothers-electricians-salt-lake-city/circuit-breaker-repair-salt-lake-city/): For Circuit Breaker Repair Salt Lake City homeowners can prepare for, use this safety checklist and know what to report. Call Ramirez Brothers Electricians.
 - [Outlet Installation Salt Lake City](https://local-business-guides.github.io/ramirez-brothers-electricians-salt-lake-city/outlet-installation-salt-lake-city/): Outlet Installation Salt Lake City helps plan safer, better-placed power access at home. Get local guidance and call Ramirez Brothers Electricians today.
@@ -37,4 +37,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/ramirez-brothers-electricians-salt-lake-city/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/ramirez-brothers-electricians-salt-lake-city/news/rss.xml)
-- [Main resource site](https://ramirez-brothers-electricians-slc.localbusinesses1.chatgpt.site)
+- [Main resource site](https://ramirez-brothers-electricians.localbusinesses1.chatgpt.site)
